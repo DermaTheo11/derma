@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/menu"
-    android:background="@color/dot_dark_screen3"
+    android:background="@drawable/bg3"
     tools:context=".fragments.PizzaFragment">
 
     <ScrollView
